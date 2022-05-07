@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gh-wallet-control/static/css/main.e6c13ad2.css",
-    "main.js": "/gh-wallet-control/static/js/main.c801eacb.js",
+    "main.js": "/gh-wallet-control/static/js/main.d1a5d204.js",
     "index.html": "/gh-wallet-control/index.html",
     "main.e6c13ad2.css.map": "/gh-wallet-control/static/css/main.e6c13ad2.css.map",
-    "main.c801eacb.js.map": "/gh-wallet-control/static/js/main.c801eacb.js.map"
+    "main.d1a5d204.js.map": "/gh-wallet-control/static/js/main.d1a5d204.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c801eacb.js"
+    "static/js/main.d1a5d204.js"
   ]
 }
